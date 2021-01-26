@@ -16,11 +16,11 @@
 
 > pkg install python2
 
-> pkg install git
+> pkg install git 
 
 > pip install requests
 
-> git clone 
+> git clone https://github.com/Space-X6/Dark-Fb-Premium.git
 
 > cd Dark-Fb-Premium
 
